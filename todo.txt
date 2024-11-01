@@ -1,0 +1,43 @@
+########### WP Realty To Do List ###########
+Project built by Chad Broussard and Jared Ritchey as a GNU/GPL product for WordPress users. This plugin was designed for use with the OpenRealty gallery listings manager and requires WordPress 2.6+ along with OpenRealty 2.5.2+ or the variant build EZProRealty 1.0 RC +
+
+########### Current version 1.0.3 ############
+1) Installer must add default pages for rapid deployment.
+2) Configuration should allow for the listings manager to reside in any directory.
+3) Should NOT require that WordPress and OpenRealty occupy the same database.
+4) Should be as SEF friendly as possible given the features in WordPress permalinks.
+5) Must provide easy integration into blog posts.
+6) Should have a featured listings option for the sidebar.
+7) Should have a featured listings option for posts (next version)
+8) Should have a language file for easy change to different businesses types (next version)
+9) MUST have the google maps feature that can be used as a widget as well. (done but wont make this version.)
+10) Add "powered by tag" like so many other plugins have.
+11) Being fair we must offer commercial unbranded versions for user, server, and developer pricing and it must be priced fairly enough to not exceed what a person would normally be willing to donate to a GNU/GPL project. 
+
+      $10 unbranded, $50 unbranded server wide, $150 unbranded or rebranded developer version. Should we allow a reseller type setup? Possibly.
+      We have been discussing the option of providing a custom build version for $99 that would allow a developer to have this rebranded and partially customized.
+
+
+########### Development version 1.0.4 ############
+1) Add in feature so people can put featured listings like our WP Featured product into specific posts.
+2) Add in some custom styling options that can be controlled from within the admin panel.
+3) Add in the new bridge for vTiger WordPress (Jared and Chad)
+4) Add in chads new SEF SEO toolset (works, sort of, pending more testing)
+5) Add in Jareds new document management feature.
+6) Add in language file so field naming can be modified by end users.
+7) Add in login bridge from Jared
+8) Add in external posts snippet from Chad
+9) Add in our calculator suite.
+10) Add in drop in rate ticker option (chads pet project)
+11) Add in drop in search form.
+12) GOOGLE MAPS must make this version.
+
+########### Planned version 1.0.5 ############
+1) Forclusure gateway (see Jared)
+2) Add the new jQuery effect for sliding featured listings.
+3) Add in default support for the All In One SEO Pack.
+4) WordPress MU compatable and should be built to avoid duplicate content by leaving the main brokers site
+ the only one that can have pages then providing a way for agent blogs in the MU environment to list featured listings.
+5) I'd like to integrate our vieleRETS WordPress integration but may leave this open for the CSV import tool.
+6) More naturally .....
+
